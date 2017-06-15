@@ -1,0 +1,14 @@
+c:\users\robson\documents\visual studio 2015\Projects\Ilustradamente3\Ilustradamente3\bin\Debug\Ilustradamente3.exe.config
+c:\users\robson\documents\visual studio 2015\Projects\Ilustradamente3\Ilustradamente3\bin\Debug\Ilustradamente3.exe
+c:\users\robson\documents\visual studio 2015\Projects\Ilustradamente3\Ilustradamente3\bin\Debug\Ilustradamente3.pdb
+c:\users\robson\documents\visual studio 2015\Projects\Ilustradamente3\Ilustradamente3\obj\Debug\Ilustradamente3.csprojResolveAssemblyReference.cache
+c:\users\robson\documents\visual studio 2015\Projects\Ilustradamente3\Ilustradamente3\obj\Debug\Ilustradamente3.Form1.resources
+c:\users\robson\documents\visual studio 2015\Projects\Ilustradamente3\Ilustradamente3\obj\Debug\Ilustradamente3.Properties.Resources.resources
+c:\users\robson\documents\visual studio 2015\Projects\Ilustradamente3\Ilustradamente3\obj\Debug\Ilustradamente3.csproj.GenerateResource.Cache
+c:\users\robson\documents\visual studio 2015\Projects\Ilustradamente3\Ilustradamente3\obj\Debug\Ilustradamente3.exe
+c:\users\robson\documents\visual studio 2015\Projects\Ilustradamente3\Ilustradamente3\obj\Debug\Ilustradamente3.pdb
+c:\users\robson\documents\visual studio 2015\Projects\Ilustradamente3\Ilustradamente3\obj\Debug\Ilustradamente3.Recompensa.resources
+c:\users\robson\documents\visual studio 2015\Projects\Ilustradamente3\Ilustradamente3\obj\Debug\Ilustradamente3.Deixa.resources
+c:\users\robson\documents\visual studio 2015\Projects\Ilustradamente3\Ilustradamente3\obj\Debug\Ilustradamente3.Rotina.resources
+C:\Users\Robson\Documents\Visual Studio 2015\Projects\Ilustradamente3\Ilustradamente3\obj\Debug\Ilustradamente3.funciona.resources
+C:\Users\Robson\Documents\Visual Studio 2015\Projects\Ilustradamente3\Ilustradamente3\obj\Debug\Ilustradamente3.Mostrar.resources
